@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Faithful souldier, or, The Speech of a private souldier concerning his arrears and putting the captain to death</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40778</idno>
+            <idno type="STC">Wing F288</idno>
+            <idno type="STC">ESTC R29802</idno>
+            <idno type="EEBO-CITATION">11209145</idno>
+            <idno type="OCLC">ocm 11209145</idno>
+            <idno type="VID">46778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Faithful souldier, or, The Speech of a private souldier concerning his arrears and putting the captain to death</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680/1.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:46778:1"/>
+            <pb facs="tcp:46778:1" rendition="simple:additions"/>
+            <head>A Faithful Souldier; OR THE SPEECH OF A Private Souldier Concerning his ARREARS. And putting the CAPTAIN to Death. Dedicated to Parſon <hi>PETERS</hi>'S Seconds, <hi>Smith, Care, Harris, Curtis,</hi> and to all the Crew.</head>
+            <opener>
+               <salute>Fellow Souldiers,</salute>
+            </opener>
+            <p>HEar me a word or two; I have ſomewhat to ſay which con<g ref="char:EOLhyphen"/>cerns every man of us: We hear they intend to put the King to Death: They know (Fellow Souldiers) it is in our Pow<g ref="char:EOLhyphen"/>er to ſave his Life; for if we think fit to have him live, nei<g ref="char:EOLhyphen"/>ther Council nor Commiſſioners will dare to touch him; and as our Caſe yet ſtands, I think we are ſtark mad if we ſuffer him to die: For as yet they have not paid us our Arrears, and perhaps never will when the King is once dead: They promiſed to pay us this day and that day; but now they confeſs, that indeed they dare not give us our Arrears: For they ſay, If we Souldiers once had all our Money, we would ſoon diſband and go home to our Friends. Is this fair Deal<g ref="char:EOLhyphen"/>ing? By this Rule we muſt never have it: For they can always ſay they dare not truſt us. This makes them give us now and then a Pit<g ref="char:EOLhyphen"/>tance, which ſcarce keeps Life and Soul together; but for our Arrears, (which are as truly ours as the Cloaths upon our Backs) we may wait long enough: For if the King be put to Death, there will be ſuch
+<pb n="2" facs="tcp:46778:2"/>Weeping, ſuch Curſing and Raging; All <hi>England</hi> will cry out, and ſay, <hi>O ye Bloody Souldiers, have ye Murther'd our King? Ye took Oaths and Cove<g ref="char:EOLhyphen"/>nants to defend his Perſon, and now have you cut his Throat?</hi> Truly (Fellow Souldiers) we are arrant Fools, to make the World hate us for Killing the King, and yet we not be one penny the better for it: If we ſee cauſe, we can any time hereafter take away his Life, when we have our Arrears, and things are better ſetled; but if now we ſhed his Blood, we can never make him alive again; therefore, before we do that which can never be undone, let us Souldiers make our beſt uſe of it: Let us declare, That until they pay us all our Arrears, they ſhall not put the King to Death; let us do this, and (on my Life) it will bring in every penny of our Money: You ſhall ſee, they will ſtrive who ſhall firſt pay us; thoſe that are ſo hot to have the King's Blood, will pay us rather than let him live; and thoſe who are his Friends, will give us any thing, rather than let him die. My Land<g ref="char:EOLhyphen"/>lord told me, that if we Souldiers would ſave the King's Life (which we can eaſily do) the King's Friends would pay us all our Arrears, and give us 200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> as a Gratuity; beſides, he bid us name our Sum, and it ſhould be paid us down upon the Nail: And why (Fellow Soul<g ref="char:EOLhyphen"/>diers) ſhould we refuſe this? Now is the time; for when the King is dead, they will not give us two-pence.</p>
+            <p>We know the <hi>Scots</hi> would not part with the King until they had their 200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and are not our Arrears as due as theirs? Nay, when the Parliament got the King, they would have kept him, had not we reſolutely fetch'd him from <hi>Holdenby;</hi> yet while they had him, they grew ſo high, that they offer'd to diſband us without paying all Ar<g ref="char:EOLhyphen"/>rears. Then we got the King, and while we uſed him civilly, all <hi>England</hi> was for us: Who then but the Army, the King and the Army were in every Man's Mouth? But as ſoon as we clapt him in <hi>Carisbrook</hi> Caſtle, and ſuffered none to make Addreſſes to him, then all the King<g ref="char:EOLhyphen"/>dom cried out upon the Army; each County began to riſe upon us: You know what Work we had in <hi>Wales, Kent, Eſſex,</hi> Twenty Thou<g ref="char:EOLhyphen"/>ſand <hi>Scots</hi> pouring in upon us; who, if they had but the Twentieth part of our <hi>Engliſh</hi> Courage, we had found a hard Task of it; So ſtill you ſee the King is All in All: Whoever got the King, had the Hearts of the People; in all our Quarters, and wherever we March'd, ye heard the People ſtill calling for their King: If they hate us, and fought with us for keeping him in Priſon, how will they rage when they ſee us cut his Throat? Think ye that then they will pay us our Arrears? I ſay (Fellow Souldiers) we are all ſtark mad if we let the King die till we have our Money.</p>
+            <p>But perhaps ſome will ſay, That the Council of War does not hin<g ref="char:EOLhyphen"/>der our Arrears, That they are Officers, and would be as glad of their Money as we would. I confeſs indeed, ſome Officers would, for ſome are in the ſame Caſe with us; but the Chief Commanders, and the Grandees are of another Mind; they have all at Command, Sequeſtra<g ref="char:EOLhyphen"/>tions, Offices, Parliament and All: Lieutenant-General <hi>Cromwell</hi> hath many Thouſand Pounds a Year of the Earl of <hi>Worceſter</hi>'s Eſtate. They can pay themſelves; but when will they pay us; They make the
+<pb n="3" facs="tcp:46778:2"/>Parliament Vote what they pleaſe: Nay, (Fellow Souldiers) when we took the Money from Weavers Hall, the Council of War refuſed to let us have it; but voted, forſooth, to ſend it to the Navy: He that writes the Occurrences ſays ſo in Print; and the other day, they and the Houſe voted 200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> more for the Navy: They know the Seamen can pay themſelves; they have Ships in their Power, as we now have the King in our Power; and ſhould we ſerve them as the Seamen ſerved them, perhaps then we might have our Arrears; but if at any time we ask for Money, Mr. <hi>Peters</hi> is hired to ſtop our Mouths, that Fellow hath cozened us I know not how often; and by my Con<g ref="char:EOLhyphen"/>ſent, when next he comes, let us clap him Neck and Heels: He ſaid they would pay us as ſoon as we came to <hi>London;</hi> but here we have waited two Months longer, yet no Arrears: Then they told us, that the Parliament was full of rotten Members, and the Houſe muſt be purged e're we could be paid. I think we gave it a ſufficient Purge; we impriſoned, and drove away ſo many Members, that we have not left above Fifty or Threeſcore; not a Member ſits now, but ſuch as our Council of War approved of; and both they, and our Council have ſate Seven Weeks, yet no Arrears: Alas (Fellow Souldiers) theſe are all Tricks, meer Tricks, they can never want ſuch Excuſes as theſe; and if now we let them take the King, and put him to Death, we may go whiſtle for our Arrears.</p>
+            <p>But ſuppoſe now we had our Arrears, which we are not like if we loſe this Opportunity, are we the better for this King's Death? When he is gone, either we muſt have another King, or a new kind of Go<g ref="char:EOLhyphen"/>vernment; and this new Government will be either a Parliament or a Committee, or many Kings at once: For Parliaments and Committees, we know how they have uſed us; they voted and gathered up Wealth for themſelves, but let us bleed and ſtarve, ſink or Swim, all was one to them; and for many Kings at once, they ſay, that heretofore <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had ſix or ſeven Kings at a time; but theſe petty Kings were little better than one of our Colonels, and they never left cutting one ano<g ref="char:EOLhyphen"/>thers Throats, till all again came under one King: If then we muſt have but one King ſtill, why ſhould we kill this King? We know, when he dies, his Son, the Prince of <hi>Wales</hi> is King: What, muſt we cut his Throat alſo? We cannot if we would; and this King's Blood will ſtick ſo upon us, and make us ſo abominable to all the People, we ſhall have ſmall Heart to kill any more Kings; but were it in our Pow<g ref="char:EOLhyphen"/>er to deſtroy this King and all his Poſterity, and all the Kings in Chri<g ref="char:EOLhyphen"/>ſtendom, who are his Allies, who then ſhall be our King? The Coun<g ref="char:EOLhyphen"/>cil ſays in our Remonſtrance, we muſt have an Elective King; but whom ſhall we elect? If we chuſe our General, alas, he will be ſedu<g ref="char:EOLhyphen"/>ced by wicked Council: We know he is a gallant Man in the Field; but at Councils of War, he does little, and ſpeaks leſs; he is fitter to be our General than our King; or ſhall Lieutenant-General <hi>Cromwell</hi> be the Man? The truth is, they talk moſt of him, and I believe he looks to be a King; and therefore I ſhould think him unfitteſt of all. Six Years ſince he was but Captain <hi>Cromwell;</hi> and if now he be ſuch a great Man, it is our Swords have made him ſo. Should any man have
+<pb n="4" facs="tcp:46778:3"/>ſaid to us ſix Years ago, <hi>Ye Souldiers ſhall fight, and never leave fighting till ye have cut King</hi> Charles <hi>his Throat, and made Captain</hi> Cromwell <hi>King of</hi> England?</p>
+            <p>I think we all ſhould have thought that Man mad; and yet (Fellow Souldiers) this is our Caſe: Have we not ſpun a fine Thread? Let who will be King, we ſhall be but Private Souldiers ſtill. I remem<g ref="char:EOLhyphen"/>ber a Tale of a Knight and a Carrier; the Knight coming from <hi>London,</hi> met the Carrier, and told him News, how King <hi>Edward</hi> was Murder<g ref="char:EOLhyphen"/>ed, and Crook-Back'd <hi>Richard</hi> was Crowned King of <hi>England.</hi> Alas, Sir, ſaid the Carrier, what is that to me? I ſhall be but a Carrier ſtill: So whether it be King <hi>Charles,</hi> or King <hi>Cromwell,</hi> we ſhall be but Pri<g ref="char:EOLhyphen"/>vate Souldiers ſtill. What are Crowns and Scepters to us? When the King was at <hi>Carisbrook</hi> and <hi>Hampton</hi> Court, he offer'd to pay us all our Arrears, and to grant us the <hi>Militia</hi> as long as he lived: Could any King ſay more? For my part, I like him as well as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as liberal as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as chaſte as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as merciful as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as wiſe as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as tem<g ref="char:EOLhyphen"/>perate as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as patient as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as handſome a Man as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> hath as ſweet Children as Lieutenant-General <hi>Cromwell.</hi> King <hi>Charles</hi> is as well deſcended as Lieutenant-General <hi>Cromwell.</hi> Remember when firſt we refuſed to Diſband, it was for our Arrears and Indempnity, confirm'd by the Roy<g ref="char:EOLhyphen"/>al Aſſent. We had an Ordinance of both Houſes, but we wanted his Majeſties Royal Aſſent. What, can we have his Aſſent after we have cut his Throat? Sure we are all mad: Alas (Fellow Souldiers) What good can the King's Blood do us? We now can ſave his Life with a wet Finger: Let us do it, we ſhall get all our Arrears, Indemnity, and e<g ref="char:EOLhyphen"/>very thing; all the Kingdom, City and Country will love us and pray for us. Now or never (Fellow Souldiers) Let us ſave our Credit, ſave our Arrears, ſave our King's Life, One and All, God's Bleſſing go a<g ref="char:EOLhyphen"/>long with us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year 1680/1.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
